@@ -1,6 +1,6 @@
 <html>
 
-<head>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <Title>등록하세요!</Title>
 
