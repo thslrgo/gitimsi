@@ -2,7 +2,7 @@
 
 <head>
 
-<Title>Registration Form</Title>
+<Title>등록하세요!</Title>
 
 <style type="text/css">
 
@@ -40,11 +40,11 @@
 
 <form method="post" action="index.php" enctype="multipart/form-data" >
 
-      Name  <input type="text" name="name" id="name"/></br>
+      이름 <input type="text" name="name" id="name"/></br>
 
       Email <input type="text" name="email" id="email"/></br>
 
-      <input type="submit" name="submit" value="Submit" />
+      <input type="submit" name="등록" value="Submit" />
 
 </form>
 
