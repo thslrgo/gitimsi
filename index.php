@@ -34,9 +34,9 @@
 
 <body>
 
-<h1>Register here!</h1>
+<h1>등록하세요!</h1>
 
-<p>Fill in your name and email address, then click <strong>Submit</strong> to register.</p>
+<p>여러분의 이름과 이메일을 입력하시고 <strong>등록</strong>을 클릭해서 등록하세요.</p>
 
 <form method="post" action="index.php" enctype="multipart/form-data" >
 
@@ -44,7 +44,7 @@
 
       Email <input type="text" name="email" id="email"/></br>
 
-      <input type="submit" name="등록" value="Submit" />
+      <input type="submit" name="submit" value="등록" />
 
 </form>
 
